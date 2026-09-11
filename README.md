@@ -21,7 +21,3 @@ Just someone who enjoys building complex systems from scratch and exploring how 
 
 ---
 
-**Current Focus:**
-- Engineering **Taji**: A fully custom language compiler and VM from scratch.
-- Engineering **ShadowByte**: An LSB-based bitwise steganography engine from scratch.
-
